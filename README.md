@@ -1,2 +1,2 @@
-# davronbek.github.io
+# davronbektogaev.github.io
 First web page
